@@ -1,4 +1,4 @@
-# Web Cross Browser Automation Demo - Setup Guide
+# Ranku - Setup Guide
 <br />
 
 ## Pre Requisites
